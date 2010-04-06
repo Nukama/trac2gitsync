@@ -12,7 +12,7 @@ For Users
 ---------
 
 -   [Installation guide](/doc/InstallationGuide)
--   [On digital signatures?](/doc/VeryfingSignatures)
+-   [On digital signatures](/doc/VerifyingSignatures)
 -   [Documentation](/doc/UserDoc)
 -   [FAQ](/doc/UserFaq)
 
