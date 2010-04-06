@@ -60,7 +60,7 @@ II. Installing Xen
     wget http://qubes-os.org/keys/qubes-release-1-signing-key.asc
     ```
 
-[Verify the keys](/doc/WikiStart???) and then install the key in the rpm database:
+[Verify the keys](/doc/VerifyingSignatures) and then install the key in the rpm database:
 
 ```
 rpm --import qubes-release-signing-key.asc
