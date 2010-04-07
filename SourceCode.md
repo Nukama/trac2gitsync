@@ -19,7 +19,13 @@ You can browse the repositories [on line via GitWeb](http://gitweb.qubes-os.org/
 To clone a repository:
 
 ```
-git clone git://
+git clone git://qubes-os.org/mainstream/<repo_name>.git <repo_name>
+```
+
+e.g.:
+
+```
+git clone git://qubes-os.org/mainstream/core.git core.git
 ```
 
 Currently the preferred way of contributing to the project is by sending a patch via the project's mailing list (`git format-patch`).
