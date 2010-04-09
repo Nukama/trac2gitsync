@@ -22,6 +22,7 @@ For Developers
 -   [Documentation](/doc/SystemDoc)
 -   [Source Code](/doc/SourceCode)
 -   [FAQ](/doc/DevelFaq)
+-   [How can I contribute to the Qubes Project?](/doc/ContributingHowto)
 
 Contact
 -------
