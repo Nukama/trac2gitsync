@@ -23,6 +23,8 @@ For Developers
 -   [Source Code](/doc/SourceCode)
 -   [FAQ](/doc/DevelFaq)
 -   [How can I contribute to the Qubes Project?](/doc/ContributingHowto)
+-   [Books](/doc/DevelBooks)
+-   [Research](/doc/QubesResearch)
 
 Contact
 -------
