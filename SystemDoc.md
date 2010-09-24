@@ -25,6 +25,8 @@ Building Qubes Packages from Sources
 Selected Subsystems Documentation
 ---------------------------------
 
+-   [Implementation of DisposableVMs](/doc/DVMimpl)
+
 -   [File exchange daemon (used by DisposableVMs)](/doc/Qfileexchgd)
 
 -   [VM Memory management daemon](/doc/Qmemman)
