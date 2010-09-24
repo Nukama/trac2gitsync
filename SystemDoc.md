@@ -29,4 +29,5 @@ Selected Subsystems Documentation
 
 -   [VM Memory management daemon](/doc/Qmemman)
 
+-   [VM networking in Qubes](/doc/QubesNet)
 
