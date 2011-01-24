@@ -26,8 +26,10 @@ For Developers
 -   [Source Code](/doc/SourceCode)
 -   [FAQ](/doc/DevelFaq)
 
-Contact
--------
+-   [Contributors List](/doc/ContributorsList)
+
+Contacts
+--------
 
 ### Mailing list
 
