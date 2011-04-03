@@ -17,4 +17,5 @@ Qubes User Documentation
 -   File sharing between AppVMs
 -   Network isolated AppVMs
 -   Disposable AppVMs
+-   [How to install Nvidia driver in dom0](/doc/InstallNvidiaDriver)
 
