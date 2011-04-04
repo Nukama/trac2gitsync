@@ -38,3 +38,5 @@ Selected Subsystems Documentation
 
 -   [VM networking in Qubes](/doc/QubesNet)
 
+-   [InterVM file copy (used by DisposableVMs)](/doc/Qfilecopy)
+
