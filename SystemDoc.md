@@ -32,7 +32,7 @@ Selected Subsystems Documentation
 
 -   [Implementation of DisposableVMs](/doc/DVMimpl)
 
--   [File exchange daemon (used by DisposableVMs)](/doc/Qfileexchgd)
+-   [File exchange daemon (used by DisposableVMs) (note that at Beta1, this is obsolete, see InterVM file copy)](/doc/Qfileexchgd)
 
 -   [VM Memory management daemon](/doc/Qmemman)
 
