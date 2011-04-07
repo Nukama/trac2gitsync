@@ -18,4 +18,5 @@ Qubes User Documentation
 -   Network isolated AppVMs
 -   Disposable AppVMs
 -   [How to install Nvidia driver in dom0](/doc/InstallNvidiaDriver)
+-   [How to copy files to Dom0?](/doc/CopyToDomZero)
 
