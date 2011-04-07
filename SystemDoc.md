@@ -40,3 +40,5 @@ Selected Subsystems Documentation
 
 -   [InterVM file copy (used by DisposableVMs)](/doc/Qfilecopy)
 
+-   [Qubes GUI protocol](/doc/GUIdocs)
+
