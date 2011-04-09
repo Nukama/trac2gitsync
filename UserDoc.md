@@ -5,7 +5,7 @@ permalink: /doc/UserDoc/
 redirect_from: /wiki/UserDoc/
 ---
 
-Qubes User Manual
+Qubes User Guides
 =================
 
 -   Getting started
