@@ -43,7 +43,9 @@ See this [page](/doc/VerifyingSignatures) for more info about how to download an
 gpg -v ISO.asc
 ```
 
-Once you verify this is an authentic ISO, you should burn it on a DVD. For instructions on how to "burn" it on a USB stick, see [this page](/doc/UsbInstallation). Before proceeding with the installation, you should first read the *Known Issues paragraph*, below.
+Once you verify this is an authentic ISO, you should burn it on a DVD. For instructions on how to "burn" it on a USB stick, see [this page](/doc/UsbInstallation). Before proceeding with the installation, you are encouraged to first read all the information on this page, especially the *Known Issues* paragraph.
+
+Then, when finally ready, boot your system from the installer DVD and follow the instructions on screen. The installer is very simple and asks very few questions -- it's actually easier to install Qubes right now, then most other Linux distributions :)
 
 Migrating from Qubes Alpha 3
 ----------------------------
