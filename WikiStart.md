@@ -12,8 +12,8 @@ For Users
 ---------
 
 -   [Installation guide](/doc/InstallationGuide)
--   [On digital signatures](/doc/VerifyingSignatures)
--   [Qubes User Documentation](/doc/UserDoc)
+-   [On digital signatures and how to verify Qubes downloads](/doc/VerifyingSignatures)
+-   [User's Guide](/doc/UserDoc)
 -   [FAQ](/doc/UserFaq)
 
 For Developers
