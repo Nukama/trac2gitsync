@@ -13,6 +13,7 @@ Qubes User Guides
 -   Copying files between domains (AppVMs)
 -   Using Disposable VMs
 -   Using Qubes firewall
+-   [Updating/Adding?](/doc/Updating/Adding) new software to domains (AppVMs)
 -   [How to mount USB stick to an AppVM?](/doc/StickMounting)
 -   [Backup/Restore/Migration](/doc/BackupRestore)
 -   [How to install Nvidia driver in dom0](/doc/InstallNvidiaDriver)
