@@ -13,7 +13,7 @@ For Users
 
 -   [Installation guide](/doc/InstallationGuide)
 -   [On digital signatures and how to verify Qubes downloads](/doc/VerifyingSignatures)
--   [User's Guide](/doc/UserDoc)
+-   [User Guide](/doc/UserDoc)
 -   [FAQ](/doc/UserFaq)
 
 For Developers
