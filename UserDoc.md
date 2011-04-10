@@ -8,7 +8,7 @@ redirect_from: /wiki/UserDoc/
 Qubes User Guides
 =================
 
--   Getting started
+-   [Getting started](/doc/GettingStarted)
 -   Copy and paste between domains (AppVMs)
 -   Copying files between domains (AppVMs)
 -   Using Disposable VMs
