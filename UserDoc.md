@@ -28,4 +28,5 @@ Optional topics:
 
 -   [How to install Nvidia driver in dom0](/doc/InstallNvidiaDriver)
 -   [Getting Sony Vaio Z laptop to work with Qubes](/doc/SonyVaioTinkering)
+-   [How to get composition working on ATI GPUs](https://groups.google.com/group/qubes-devel/browse_thread/thread/5a0dfc38fd1cc16a)
 
