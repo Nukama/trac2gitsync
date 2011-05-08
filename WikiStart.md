@@ -20,6 +20,7 @@ For Developers
 --------------
 
 -   [Qubes Developer Documentation](/doc/SystemDoc)
+-   [Ideas Incubator?](/doc/IdeasIncubator)
 -   [Source Code](/doc/SourceCode)
 -   [FAQ](/doc/DevelFaq)
 
