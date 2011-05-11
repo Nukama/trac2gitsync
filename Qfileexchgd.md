@@ -5,6 +5,11 @@ permalink: /doc/Qfileexchgd/
 redirect_from: /wiki/Qfileexchgd/
 ---
 
+**This mechanism is obsolete as of Qubes Beta 1!**
+==================================================
+
+Please see this [page](/doc/Qfilecopy) instead.
+
 qfilexchgd, the Qubes file exchange daemon
 ==========================================
 
