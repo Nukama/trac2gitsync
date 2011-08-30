@@ -16,6 +16,8 @@ System Documentation for Developers
 
 -   [Inter-domain file coping](/doc/Qfilecopy)
 
+-   [Command execution in VM (and Qubes RPC)](/doc/Qrexec)
+
 -   [Dynamic memory management in Qubes](/doc/Qmemman)
 
 -   [Implementation of DisposableVMs](/doc/DVMimpl)
