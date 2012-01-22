@@ -15,13 +15,13 @@ Qubes User Guides
 -   [Updating software in Dom0](/doc/SoftwareUpdateDom0)
 -   [Backup/Restore/Migration](/doc/BackupRestore)
 -   Using Disposable VMs
+-   [Using Qubes firewall](/doc/QubesFirewall)
+-   [How to mount USB stick to an AppVM?](/doc/StickMounting)
 
 Advanced topics:
 
--   [Using Qubes firewall](/doc/QubesFirewall)
 -   Creating custom NetVMs
 -   Creating custom ProxyVMs
--   [How to mount USB stick to an AppVM?](/doc/StickMounting)
 -   [How to copy files to Dom0?](/doc/CopyToDomZero)
 
 Command-line tools reference:
