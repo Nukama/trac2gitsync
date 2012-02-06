@@ -32,7 +32,7 @@ System Documentation for Developers
 
 Build instructions:
 
--   [Building all Qubes packages](/doc/QubesBuilder)
+-   [Building Qubes](/doc/QubesBuilder)
 
 -   [KDE Dom0 packages for Qubes](/doc/KdeDom0)
 
