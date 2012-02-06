@@ -32,8 +32,6 @@ System Documentation for Developers
 
 Build instructions:
 
--   (outdated) Building Qubes core and gui packages: see this [message](https://groups.google.com/group/qubes-devel/browse_thread/thread/710f725713cc7e8a#)
-
 -   [Building all Qubes packages](/doc/QubesBuilder)
 
 -   [KDE Dom0 packages for Qubes](/doc/KdeDom0)
