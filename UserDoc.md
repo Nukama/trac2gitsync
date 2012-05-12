@@ -13,6 +13,7 @@ Qubes User Guides
 -   [Copying files between domains](/doc/CopyingFiles)
 -   [Updating and adding new software to domains](/doc/SoftwareUpdateVM)
 -   [Updating software in Dom0](/doc/SoftwareUpdateDom0)
+-   [Dom0 and VM updates via Qubes Manager?](/doc/ManagerUpdates)
 -   [Backup/Restore/Migration](/doc/BackupRestore)
 -   Using Disposable VMs
 -   [Using Qubes firewall](/doc/QubesFirewall)
