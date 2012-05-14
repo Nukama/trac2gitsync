@@ -7,7 +7,6 @@ redirect_from: /wiki/DomZeroTools/
 
 QVM-tools:
 
--   [qvm-ls?](/doc/QvmLs)
 -   [qubes-dom0-network-via-netvm](/doc/Dom0Tools/QubesDom0NetworkViaNetvm)
 -   [qubes-dom0-update](/doc/Dom0Tools/QubesDom0Update)
 -   [qubes-prefs](/doc/Dom0Tools/QubesPrefs)
@@ -21,6 +20,7 @@ QVM-tools:
 -   [qvm-create](/doc/Dom0Tools/QvmCreate)
 -   [qvm-firewall](/doc/Dom0Tools/QvmFirewall)
 -   [qvm-grow-private](/doc/Dom0Tools/QvmGrowPrivate)
+-   [qvm-ls](/doc/Dom0Tools/QvmLs)
 -   [qvm-kill](/doc/Dom0Tools/QvmKill)
 -   [qvm-pci](/doc/Dom0Tools/QvmPci)
 -   [qvm-prefs](/doc/Dom0Tools/QvmPrefs)
