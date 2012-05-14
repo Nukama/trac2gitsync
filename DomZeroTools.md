@@ -8,27 +8,27 @@ redirect_from: /wiki/DomZeroTools/
 QVM-tools:
 
 -   [qvm-ls?](/doc/QvmLs)
--   [Dom0Tools/QubesDom0Network-via-netvm qubes-dom0-network-via-netvm]
--   [Dom0Tools/QubesDom0Update qubes-dom0-update]
--   [Dom0Tools/QubesPrefs qubes-prefs]
--   [Dom0Tools/QvmAddAppvm qvm-add-appvm]
--   [Dom0Tools/QvmAddTemplate qvm-add-template]
--   [Dom0Tools/QvmBackupRestore qvm-backup-restore]
--   [Dom0Tools/QvmBackup qvm-backup]
--   [Dom0Tools/QvmBlock qvm-block]
--   [Dom0Tools/QvmClone qvm-clone]
--   [Dom0Tools/QvmCreateDefaultDvm qvm-create-default-dvm]
--   [Dom0Tools/QvmCreate qvm-create]
--   [Dom0Tools/QvmFirewall qvm-firewall]
--   [Dom0Tools/QvmGrowPrivate qvm-grow-private]
--   [Dom0Tools/QvmKill qvm-kill]
--   [Dom0Tools/QvmPci qvm-pci]
--   [Dom0Tools/QvmPrefs qvm-prefs]
--   [Dom0Tools/QvmRemove qvm-remove]
--   [Dom0Tools/QvmRevertTemplateChanges qvm-revert-template-changes]
--   [Dom0Tools/QvmRun qvm-run]
--   [Dom0Tools/QvmShutdown qvm-shutdown]
--   [Dom0Tools/QvmStart qvm-start]
--   [Dom0Tools/QvmSyncAppmenus qvm-sync-appmenus]
--   [Dom0Tools/QvmTemplateCommit qvm-template-commit]
+-   [qubes-dom0-network-via-netvm](/doc/Dom0Tools/QubesDom0NetworkViaNetvm)
+-   [qubes-dom0-update](/doc/Dom0Tools/QubesDom0Update)
+-   [qubes-prefs](/doc/Dom0Tools/QubesPrefs)
+-   [qvm-add-appvm](/doc/Dom0Tools/QvmAddAppvm)
+-   [qvm-add-template](/doc/Dom0Tools/QvmAddTemplate)
+-   [qvm-backup-restore](/doc/Dom0Tools/QvmBackupRestore)
+-   [qvm-backup](/doc/Dom0Tools/QvmBackup)
+-   [qvm-block](/doc/Dom0Tools/QvmBlock)
+-   [qvm-clone](/doc/Dom0Tools/QvmClone)
+-   [qvm-create-default-dvm](/doc/Dom0Tools/QvmCreateDefaultDvm)
+-   [qvm-create](/doc/Dom0Tools/QvmCreate)
+-   [qvm-firewall](/doc/Dom0Tools/QvmFirewall)
+-   [qvm-grow-private](/doc/Dom0Tools/QvmGrowPrivate)
+-   [qvm-kill](/doc/Dom0Tools/QvmKill)
+-   [qvm-pci](/doc/Dom0Tools/QvmPci)
+-   [qvm-prefs](/doc/Dom0Tools/QvmPrefs)
+-   [qvm-remove](/doc/Dom0Tools/QvmRemove)
+-   [qvm-revert-template-changes](/doc/Dom0Tools/QvmRevertTemplateChanges)
+-   [qvm-run](/doc/Dom0Tools/QvmRun)
+-   [qvm-shutdown](/doc/Dom0Tools/QvmShutdown)
+-   [qvm-start](/doc/Dom0Tools/QvmStart)
+-   [qvm-sync-appmenus](/doc/Dom0Tools/QvmSyncAppmenus)
+-   [qvm-template-commit](/doc/Dom0Tools/QvmTemplateCommit)
 
