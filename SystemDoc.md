@@ -30,6 +30,8 @@ System Documentation for Developers
 
 -   [Dom0 secure update mechanism](/doc/Dom0SecureUpdates)
 
+-   [VM secure update mechanism?](/doc/VMSecureUpdates)
+
 Build instructions:
 
 -   [Building Qubes](/doc/QubesBuilder)
