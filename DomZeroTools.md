@@ -27,6 +27,7 @@ QVM-tools:
 -   [qvm-remove](/doc/Dom0Tools/QvmRemove)
 -   [qvm-revert-template-changes](/doc/Dom0Tools/QvmRevertTemplateChanges)
 -   [qvm-run](/doc/Dom0Tools/QvmRun)
+-   [qvm-service](/doc/Dom0Tools/QvmService)
 -   [qvm-shutdown](/doc/Dom0Tools/QvmShutdown)
 -   [qvm-start](/doc/Dom0Tools/QvmStart)
 -   [qvm-sync-appmenus](/doc/Dom0Tools/QvmSyncAppmenus)
