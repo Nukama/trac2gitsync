@@ -29,7 +29,7 @@ Advanced topics:
 Command-line tools reference:
 
 -   [Dom0 tools](/doc/DomZeroTools)
--   VM tools
+-   [VMTools VM tools]
 
 Optional topics:
 
