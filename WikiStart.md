@@ -12,6 +12,7 @@ For Users
 ---------
 
 -   [Qubes Security Goals](/doc/SecurityGoals)
+-   [Qubes Security Bulletins](/doc/SecurityBulletins)
 -   [Installation guide](/doc/InstallationGuide)
 -   [Hardware Compatibility List](/doc/HCL)
 -   [On digital signatures and how to verify Qubes downloads](/doc/VerifyingSignatures)
