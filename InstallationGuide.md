@@ -13,6 +13,8 @@ Hardware Requirements
 
 Please see the [Hardware Compatibility List](/doc/HCL) page for more information on required and recommended hardware.
 
+Note: We don't recommend installing Qubes in a virtual machine! It will likely not work. Don't send emails asking about it.
+
 Download installer ISO
 ----------------------
 
