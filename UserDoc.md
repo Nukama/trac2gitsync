@@ -9,6 +9,7 @@ Qubes User Guides
 =================
 
 -   [Getting started](/doc/GettingStarted)
+-   [Creating and using HVM domains (in Qubes 2)](/doc/HvmCreate)
 -   [Copy and paste between domains](/doc/CopyPaste)
 -   [Copying files between domains](/doc/CopyingFiles)
 -   [Updating and adding new software to domains](/doc/SoftwareUpdateVM)
