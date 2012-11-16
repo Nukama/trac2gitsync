@@ -40,7 +40,7 @@ Download and Installation
 -------------------------
 
 -   [Hardware Compatibility List](/doc/HCL)
--   [Download and Installation Guide](/doc/InstallationGuide)
+-   [ISO Download and Installation Guide](/doc/InstallationGuide)
 -   [On digital signatures and how to verify Qubes downloads](/doc/VerifyingSignatures)
 
 For Users
