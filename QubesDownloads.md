@@ -10,10 +10,10 @@ Qubes Downloads
 
 -   [On digital signatures and how to verify Qubes downloads](/doc/VerifyingSignatures)
 
-Qubes Release 2 Beta 1
-----------------------
+Qubes Release 2
+---------------
 
--   Coming soon...
+-   Qubes R2 Beta 1 coming soon...
 
 -   [Hardware Compatibility List?](/doc/HCLR2)
 -   [ISO Download and Installation Guide](/doc/InstallationGuideR2)
