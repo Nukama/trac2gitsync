@@ -19,6 +19,7 @@ Qubes User Guides
 -   Using Disposable VMs
 -   [Using Qubes firewall](/doc/QubesFirewall)
 -   [How to mount USB stick to an AppVM?](/doc/StickMounting)
+-   [Key generation inside Qubes VMs?](/doc/KeyGen)
 -   [How to assign full PCI/e device to a VM?](/doc/AssigningDevices)
 
 Advanced topics:
