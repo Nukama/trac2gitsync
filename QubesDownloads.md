@@ -17,6 +17,7 @@ Qubes Release 2
 
 -   [Hardware Compatibility List?](/doc/HCLR2)
 -   [Installation Guide](/doc/InstallationGuideR2)
+-   [Upgrading from Qubes R1 to Qubes R2?](/doc/UpgradeToR2)
 
 Qubes Release 1
 ---------------
