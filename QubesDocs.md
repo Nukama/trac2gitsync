@@ -11,6 +11,7 @@ Qubes Documentation
 For Users
 ---------
 
+-   [Installation guides](/doc/QubesDownloads)
 -   [User's Guide](/doc/UserDoc)
 -   [FAQ](/doc/UserFaq)
 
