@@ -11,8 +11,8 @@ Qubes Documentation
 For Users
 ---------
 
+-   **[User guides](/doc/UserDoc)** \<--- You probably want to start here!
 -   [Installation guides](/doc/QubesDownloads)
--   [User guide](/doc/UserDoc)
 -   [User FAQ](/doc/UserFaq)
 
 For Developers
