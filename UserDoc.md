@@ -32,6 +32,7 @@ Advanced topics:
 -   [Tor proxy VM](/doc/UserDoc/TorVM) documentation
 -   [XFCE](/doc/UserDoc/XFCE) installation in dom0
 -   [DispVM Customization](/doc/UserDoc/DispVMCustomization)
+-   [Tips for using Linux in HVM](/doc/LinuxHVMTips)
 
 Command-line tools reference:
 
