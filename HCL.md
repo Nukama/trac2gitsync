@@ -242,6 +242,24 @@ OK
 
 [Sebastian Hültenschmidt](https://groups.google.com/forum/#!msg/qubes-devel/TgDWwBs36yA/IUFZPHs716cJ)
 
+Lenovo Thinkpad X61t
+
+?
+
+?
+
+?
+
+OK
+
+?
+
+?
+
+?
+
+[George Walker](https://groups.google.com/forum/clear.cache.gif)
+
 Lenovo Thinkpad x220
  (HD?000; i5-?)
 
