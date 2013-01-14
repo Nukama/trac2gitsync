@@ -16,7 +16,7 @@ Qubes Release 2
 -   [Qubes-R2-Beta1-x86\_64-DVD.iso](http://sourceforge.net/projects/qubesos/files/Qubes-R2-Beta1-x86_64-DVD.iso/download) (via sourceforge.net)
 -   [Digital Signature](http://sourceforge.net/projects/qubesos/files/Qubes-R2-Beta1-x86_64-DVD.iso.asc/download) (via sourceforge.net)
 
--   [Hardware Compatibility List?](/doc/HCLR2)
+-   [Hardware Compatibility List](/doc/HCL)
 -   [Installation Guide](/doc/InstallationGuideR2)
 -   [Upgrading from Qubes R1 to Qubes R2?](/doc/UpgradeToR2)
 
@@ -26,7 +26,7 @@ Qubes Release 1
 -   [Qubes-R1-x86\_64-DVD.iso](http://sourceforge.net/projects/qubesos/files/Qubes-R1-x86_64-DVD.iso/download) (via sourceforge.net)
 -   [Digital Signature](http://sourceforge.net/projects/qubesos/files/Qubes-R1-x86_64-DVD.iso.asc/download) (via sourceforge.net)
 
--   [Hardware Compatibility List](/doc/HCLR1)
+-   [Hardware Compatibility List](/doc/HCL)
 -   [Installation Guide](/doc/InstallationGuide)
 
 Mirrors
