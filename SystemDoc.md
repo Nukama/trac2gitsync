@@ -28,4 +28,5 @@ Build instructions:
 -   [KDE Dom0 packages for Qubes](/doc/KdeDom0)
 -   [How to build Qubes installation ISO](/doc/InstallationIsoBuilding)
 -   [Building USB passthrough support (experimental)](/doc/USBVM)
+-   [a TemplateVM based on ArchLinux?](/doc/Building)
 
