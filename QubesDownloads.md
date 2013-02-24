@@ -9,6 +9,7 @@ Qubes Downloads
 ===============
 
 -   [On digital signatures and how to verify Qubes downloads](/doc/VerifyingSignatures)
+-   [Hardware Compatibility List (covers all Qubes releases)](/doc/HCL)
 
 Qubes Release 2
 ---------------
@@ -17,14 +18,12 @@ Qubes Release 2
 -   [Digital Signature] (Coming soon!)
 
 -   **[Installation Guide](/doc/InstallationGuideR2B2)** \<--- You probably want to read this!
--   [Hardware Compatibility List](/doc/HCL)
 -   [Upgrading to Qubes R2 Beta 2](/doc/UpgradeToR2B2)
 
 -   [Qubes-R2-Beta1-x86\_64-DVD.iso](http://sourceforge.net/projects/qubesos/files/Qubes-R2-Beta1-x86_64-DVD.iso/download) (via sourceforge.net)
 -   [Digital Signature](http://sourceforge.net/projects/qubesos/files/Qubes-R2-Beta1-x86_64-DVD.iso.asc/download) (via sourceforge.net)
 
 -   **[Installation Guide](/doc/InstallationGuideR2B1)** \<--- You probably want to read this!
--   [Hardware Compatibility List](/doc/HCL)
 -   [Upgrading from Qubes R1 to Qubes R2?](/doc/UpgradeToR2)
 
 Qubes Release 1
@@ -34,7 +33,6 @@ Qubes Release 1
 -   [Digital Signature](http://sourceforge.net/projects/qubesos/files/Qubes-R1-x86_64-DVD.iso.asc/download) (via sourceforge.net)
 
 -   **[Installation Guide](/doc/InstallationGuide)** \<--- You probably want to read this!
--   [Hardware Compatibility List](/doc/HCL)
 
 Mirrors
 -------
