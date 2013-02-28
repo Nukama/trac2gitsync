@@ -149,6 +149,14 @@ OK
 
 needs kernel 3.4.17+
 
+OK
+
+OK
+
+OK
+
+OK
+
 Qubes core developers
 
 ASUS UX-31
