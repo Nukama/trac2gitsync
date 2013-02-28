@@ -40,7 +40,7 @@ Hardware Compatibility List
 
 **Qubes R1**
 
-Qubes R2 Beta2
+**Qubes R2 Beta2**
 
 **Reported by**
 
