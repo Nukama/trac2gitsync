@@ -395,7 +395,7 @@ Samsung Series 7 Chronos NP700Z5C
 
 OK
 
-OK
+?
 
 ?
 
