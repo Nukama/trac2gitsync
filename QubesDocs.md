@@ -24,6 +24,7 @@ For Developers
 -   [Developer's FAQ](/doc/DevelFaq)
 
 -   [How can I contribute to the Qubes Project?](/doc/ContributingHowto)
+-   [Qubes Coding Guidelines](/doc/CodingStyle)
 -   [Books for Developers](/doc/DevelBooks)
 -   [Research papers related to Qubes](/doc/QubesResearch)
 
