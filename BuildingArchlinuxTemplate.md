@@ -27,8 +27,10 @@ Get all required sources
 make get-sources
 ```
 
-Make all required qubes components (the first use of the builder can take several hours depending on your bandwidth as it will install an archlinux chroot):
-------------------------------------------------------------------------------------------------------------------------------------------------------------
+Make all required qubes components
+----------------------------------
+
+The first use of the builder can take several hours depending on your bandwidth as it will install an archlinux chroot:
 
 ```
 make vmm-xen-vm
@@ -70,7 +72,17 @@ A better fix is planned for the next python release (the bug is considered relea
 Qubes-OS is now using different xenstore variable names, which makes to archlinux VM failing to boot
 ----------------------------------------------------------------------------------------------------
 
-Apply the following fix in the template to revert the variable name to the old Qubes version (eg: sudo mkdir /mnt/vm; sudo mount /var/lib/qubes/vm-templates/archlinux-x64/root.img /mnt/vm; sudo chroot /mnt/vm then apply the fix, then umount /mnt/vm)
+Apply the following fix in the template to revert the variable name to the old Qubes version.
+
+You can edit the template the following way:
+
+```
+sudo mkdir /mnt/vm
+sudo mount /var/lib/qubes/vm-templates/archlinux-x64/root.img /mnt/vm
+sudo chroot /mnt/vm
+```
+
+Then apply the fix:
 
 ```
 sudo sed 's:qubes-keyboard:qubes_keyboard:g' -i /etc/X11/xinit/xinitrc.d/qubes-keymap.sh
@@ -103,6 +115,12 @@ sudo sed 's:qubes-netvm-domid:qubes_netvm_domid:g' -i /usr/sbin/qubes-netwatcher
 sudo sed 's:qubes-netvm-external-ip:qubes_netvm_external_ip:g' -i /usr/sbin/qubes-netwatcher
 ```
 
+Do not forgot to:
+
+```
+umount /mnt/vm
+```
+
 The nm-applet (network manager icon) fails to start when archlinux is defined as a template-vm:
 -----------------------------------------------------------------------------------------------
 
@@ -120,3 +138,8 @@ to
 
 DispVM, Yum proxy and most Qubes addons (thunderbird ...) have not been tested at all.
 --------------------------------------------------------------------------------------
+
+chroot-archlinux/dev/pts has not been unmounted
+-----------------------------------------------
+
+This is a known problem when there are errors during building. Just unmount what you can (or reboot your vm if you are too lazy :) )
