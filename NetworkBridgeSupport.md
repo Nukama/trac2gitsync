@@ -23,5 +23,7 @@ Qubes manager patch (Qubes R2B3)
 The following patches can be applied to the Qubes Manager GUI in order to add an option to easily bridge a VM. Use it at your own risk. If the patch breaks the Qubes Manager, you can try to restore the qubes packages:
 
 ```
-# qubes-dom-update reinstall qubes-core-dom0 qubes-manager
+# qubes-dom-update qubes-core-dom0 qubes-manager
+# yum reinstall qubes-core-dom0
+# yum reinstall qubes-manager
 ```
