@@ -8,8 +8,9 @@ redirect_from: /wiki/QubesDownloads/
 Qubes Downloads
 ===============
 
--   [On digital signatures and how to verify Qubes downloads](/doc/VerifyingSignatures)
--   [Hardware Compatibility List (covers all Qubes releases)](/doc/HCL)
+-   [System Requirements](/doc/SystemRequirements)
+-   [Hardware Compatibility List](/doc/HCL)
+-   [On Digital Signatures and How to Verify Qubes Downloads](/doc/VerifyingSignatures)
 
 Qubes Release 2
 ---------------
