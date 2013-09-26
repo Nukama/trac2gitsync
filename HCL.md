@@ -5,8 +5,8 @@ permalink: /doc/HCL/
 redirect_from: /wiki/HCL/
 ---
 
-Hardware Compatibility List for All Qubes OS Releases
-=====================================================
+Hardware Compatibility List (HCL) for All Qubes OS Releases
+===========================================================
 
 **Device**
 
