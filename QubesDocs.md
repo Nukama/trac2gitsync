@@ -11,7 +11,7 @@ Qubes Documentation
 For Users
 ---------
 
--   **[User Guides](/doc/UserDoc)**`   `**(New to Qubes? Start here!)**
+-   **[User Guides](/doc/UserDoc) (New to Qubes? Start here!)**
 -   [Users' FAQ](/doc/UserFaq)
 -   [System Requirements](/doc/SystemRequirements)
 -   [Hardware Compatibility List](/doc/HCL)
