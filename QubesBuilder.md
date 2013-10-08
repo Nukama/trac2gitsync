@@ -96,7 +96,7 @@ You can also build selected component separately. Eg. to compile only gui virtua
 make gui
 ```
 
-Full list you can get from make help.
+Full list you can get from make help. For advanced use and preparing sources for use with [QubesBuilder](/doc/QubesBuilder) take a look at [QubesBuilderDetails](/doc/QubesBuilderDetails) page.
 
 Making customized build
 -----------------------
