@@ -31,6 +31,8 @@ VT-d
 
 Remarks
 
+**Developer Reported Machines**
+
 Lenovo Thinkpad T420
 
 OK
@@ -110,6 +112,8 @@ OK
 Suspend doesn't work on 3.7.6 kernel, but work on 3.7.4
 
 Qubes core developers
+
+**User Reported Laptops**
 
 Apple MacBookPro
  (i7 M620)
@@ -463,6 +467,8 @@ OK
 OK
 
 [Ant](https://groups.google.com/d/msg/qubes-users/uKI-VBtKWxg/uKjsdGNSpSQJ)
+
+**User Reported Desktops and Custom Built Machines**
 
 ASRock Z77 Pro4
  (Ivy Bridge; Xeon E3-1200 Graphics; i7-3770; BIOS: P1.40)
