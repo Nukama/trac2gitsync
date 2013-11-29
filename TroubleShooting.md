@@ -5,5 +5,5 @@ permalink: /doc/TroubleShooting/
 redirect_from: /wiki/TroubleShooting/
 ---
 
--   [Out of memory error](/doc/OutOfmemory)
+-   [Home directory is out of disk space error](/doc/OutOfmemory)
 
