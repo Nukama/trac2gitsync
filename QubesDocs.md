@@ -17,6 +17,7 @@ For Users
 -   [Hardware Compatibility List](/doc/HCL)
 -   [On Digital Signatures and How to Verify Qubes Downloads](/doc/VerifyingSignatures)
 -   [Installation Guides](/doc/QubesDownloads)
+-   [Troubleshooting](/doc/TroubleShooting)
 
 For Developers
 --------------
