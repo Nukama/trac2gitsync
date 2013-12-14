@@ -8,7 +8,7 @@ redirect_from: /wiki/HCL/
 Hardware Compatibility List (HCL) for All Qubes OS Releases
 ===========================================================
 
-This list contains information about the [latest stable release](/doc/HCL#LatestStableRelease) (**R1**) and the [latest development release](/doc/HCL#LatestDevelopmentRelease) (**R2B3**). You can find also find information about the [previous releases](/doc/HCL#PreviousRelease) here.
+This list contains information about the [latest stable release](/doc/HCL#LatestStableRelease) (**R1**) and the [latest development release](/doc/HCL#LatestDevelopmentRelease) (**R2B3**). You can find also find information about the [previous releases](/doc/HCL#PreviousReleases) here.
 
 Generating and Submitting New Reports
 -------------------------------------
