@@ -30,7 +30,7 @@ Reports
 
 White
 
-We have not received any report jet
+We have not received a sufficient report yet
 
 Green
 
