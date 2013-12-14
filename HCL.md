@@ -290,6 +290,12 @@ OK
 
 OK
 
+3.7.4
+
+OK
+
+OK
+
 [Zrubi](https://groups.google.com/forum/#!msg/qubes-devel/xoyNCigBvFE/ER61L6TbVpwJ)
 
 Lenovo Thinkpad W510
