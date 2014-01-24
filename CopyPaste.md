@@ -34,3 +34,12 @@ Clipboard automatic policy enforcement
 --------------------------------------
 
 TODO
+
+Shortcut Configuration
+----------------------
+
+The copy/paste shortcut is configurable in:
+
+```
+/etc/qubes/guid.conf
+```
