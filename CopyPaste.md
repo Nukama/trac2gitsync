@@ -38,7 +38,7 @@ TODO
 Shortcut Configuration
 ----------------------
 
-The copy/paste shortcut is configurable in:
+The copy/paste shortcuts are configurable in:
 
 ```
 /etc/qubes/guid.conf
