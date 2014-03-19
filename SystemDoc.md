@@ -19,6 +19,7 @@ System Documentation for Developers
 -   [Article about disposable VMs](http://theinvisiblethings.blogspot.com/2010/06/disposable-vms.html)
 -   [Implementation of template sharing and updating](/doc/TemplateImplementation)
 -   [Dom0 secure update mechanism](/doc/Dom0SecureUpdates)
+-   [Debugging Windows VMs](/doc/WindowsDebugging)
 -   [VM secure update mechanism?](/doc/VMSecureUpdates)
 
 Build instructions:
