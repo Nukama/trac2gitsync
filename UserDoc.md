@@ -26,6 +26,7 @@ Standard Topics
 -   [Qubes Backup, Restoration, and Migration](/doc/BackupRestore)
 -   [Configuring a Network Printer](/doc/NetworkPrinter)
 -   [Resizing AppVM and HVM Disk Images](/doc/ResizeDiskImage)
+-   [Managing Shortcuts to Applications Installed in AppVms](/doc/ManagingAppVmShortcuts)
 
 Advanced Topics
 ---------------
