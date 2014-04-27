@@ -5,7 +5,7 @@ permalink: /doc/WikiStart/
 redirect_from: /wiki/WikiStart/
 ---
 
-[![](http://files.qubes-os.org/Architecture_files/droppedImage.png "http://files.qubes-os.org/Architecture_files/droppedImage.png")](/doc/QubesArchitecture)
+[![No image "qubes-arch-diagram-1.png" attached to QubesArchitecture](/chrome/common/attachment.png "No image "qubes-arch-diagram-1.png" attached to QubesArchitecture")](/doc/QubesArchitecture)
 
 Welcome to the Qubes OS Project
 ===============================
