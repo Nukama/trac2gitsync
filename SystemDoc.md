@@ -12,7 +12,7 @@ System Documentation for Developers
 -   [Security-critical elements of Qubes OS](/doc/SecurityCriticalCode)
 -   [Qubes GUI virtualization protocol](/doc/GUIdocs)
 -   [Networking in Qubes](/doc/QubesNet)
--   [Inter-domain file coping](/doc/Qfilecopy)
+-   [Inter-domain file copying](/doc/Qfilecopy)
 -   [Command execution in VM (and Qubes RPC)](/doc/Qrexec)
 -   [Dynamic memory management in Qubes](/doc/Qmemman)
 -   [Implementation of DisposableVMs](/doc/DVMimpl)
