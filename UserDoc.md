@@ -48,6 +48,8 @@ Advanced Topics
 -   [Enabling TRIM for SSD disks](/doc/DiskTRIM)
 -   [Understanding and Preventing Data Leaks](/doc/DataLeaks)
 
+-   [Templates: Fedora - minimal](/doc/Templates/FedoraMinimal)
+
 Command-Line Tool References
 ----------------------------
 
