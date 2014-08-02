@@ -17,6 +17,7 @@ Qubes is an open-source operating system designed to provide strong security for
 -   [Architecture Overview](/doc/QubesArchitecture)
 -   [Qubes Security Goals](/doc/SecurityGoals)
 -   [FAQ](/doc/UserFaq)
+-   [User Documentation](/doc/UserDoc)
 -   [How is Qubes OS different from...?](http://theinvisiblethings.blogspot.com/2012/09/how-is-qubes-os-different-from.html)
 -   Beyond Qubes R2 -- the [Qubes Odyssey Framework](http://theinvisiblethings.blogspot.com/2013/03/introducing-qubes-odyssey-framework.html)
 
