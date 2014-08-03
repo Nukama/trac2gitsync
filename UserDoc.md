@@ -76,7 +76,7 @@ Qubes User Documentation
     3.  [Assigning PCI Devices to AppVMs](/doc/AssigningDevices)
     4.  [Enabling TRIM for SSD disks](/doc/DiskTRIM)
     5.  [Configuring a Network Printer](/doc/NetworkPrinter)
-    6.  Proprietary
+    6.  Vendor-specific
         1.  [How to install an Nvidia driver in dom0](/doc/InstallNvidiaDriver)
         2.  [Getting Sony Vaio Z laptop to work with Qubes](/doc/SonyVaioTinkering)
 
