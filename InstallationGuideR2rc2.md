@@ -62,7 +62,7 @@ The installer loads Xen right at the beginning, so chances are high that if you 
 Upgrading
 ---------
 
-Upgrading from Qubes R2 rc1 should be a simple matter of install updates for [dom0](/doc/SoftwareUpdateDom0) and [VMs](/doc/SoftwareUpdateVM).
+Upgrading from Qubes R2 rc1 should be a simple matter of installing updates for [dom0](/doc/SoftwareUpdateDom0) and [VMs](/doc/SoftwareUpdateVM).
 
 Users of R2 beta 3 should follow instructions on how to upgrade to Qubes R2 rc1 [here](/doc/UpgradeToR2rc1).
 
