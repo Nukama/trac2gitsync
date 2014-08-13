@@ -21,6 +21,7 @@ System Documentation for Developers
 -   [Dom0 secure update mechanism](/doc/Dom0SecureUpdates)
 -   [Debugging Windows VMs](/doc/WindowsDebugging)
 -   [VM secure update mechanism?](/doc/VMSecureUpdates)
+-   [VM-dom0 internal configuration interface](/doc/SystemDoc/VMInterface)
 
 Build instructions:
 
