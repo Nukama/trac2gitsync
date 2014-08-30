@@ -11,18 +11,19 @@ Qubes User Documentation
 1.  **Basic Reading**
     1.  [Getting Started](/doc/GettingStarted)
     2.  [Security Guidelines](/doc/SecurityGuidelines)
-    3.  [Backup, Restoration, and Migration](/doc/BackupRestore)
+    3.  [Glossary of Qubes Terminology](/doc/Glossary)
 
-2.  **Domain Zero (dom0)**
+2.  **Dom0**
     1.  [Dom0 Command-Line Tools](/doc/DomZeroTools)
     2.  [Updating Software in dom0](/doc/SoftwareUpdateDom0)
     3.  [Copying Files to and from dom0](/doc/CopyToDomZero)
-    4.  Advanced Topics
+    4.  [Backup, Restoration, and Migration](/doc/BackupRestore)
+    5.  Advanced Topics
         1.  [Installing Anti Evil Maid](/doc/AntiEvilMaid)
         2.  [XFCE Installation in dom0](/doc/UserDoc/XFCE)
         3.  [Installing ZFS in Qubes](/doc/ZFS)
 
-3.  **Unprivileged Domains (domUs)**
+3.  **[DomUs?](/doc/DomUs)**
     1.  [DomU Command-Line Tools](/doc/VmTools)
     2.  **Intra-VM Actions**
         1.  [Enabling Fullscreen Mode](/doc/FullScreenMode)
@@ -33,7 +34,7 @@ Qubes User Documentation
         2.  [Copying and Moving Files Between Domains](/doc/CopyingFiles)
         3.  [Using GPG more securely in Qubes: Split GPG tutorial](/doc/UserDoc/SplitGpg)
 
-    4.  **NetworkVMs and ProxyVMs (NetVMs and ProxyVMs)**
+    4.  **NetVMs and ProxyVMs**
         1.  [Understanding Qubes Firewall](/doc/QubesFirewall)
         2.  [Understanding and Preventing Data Leaks](/doc/DataLeaks)
         3.  [How to Install a Transparent Tor ProxyVM (TorVM)](/doc/UserDoc/TorVM)
@@ -52,11 +53,11 @@ Qubes User Documentation
         4.  External Links
             1.  [Extending \`root.img\` Size](https://groups.google.com/group/qubes-devel/msg/9d1ac581236ca9b4)
 
-    6.  **DisposableVMs (DispVMs)**
+    6.  **DispVMs**
         1.  [Disposable VMs](/doc/DisposableVms)
         2.  [DispVM Customization](/doc/UserDoc/DispVMCustomization)
 
-    7.  **HardwareVMs (HVMs)**
+    7.  **HVMs**
         1.  [Resizing AppVM and HVM Disk Images](/doc/ResizeDiskImage)
         2.  [Tips for Using Linux in an HVM](/doc/LinuxHVMTips)
         3.  [Creating and Using HVM and Windows Domains (Qubes R2 Only)](/doc/HvmCreate)
