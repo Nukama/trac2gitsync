@@ -20,6 +20,7 @@ System Documentation for Developers
 -   [Implementation of template sharing and updating](/doc/TemplateImplementation)
 -   [Dom0 secure update mechanism](/doc/Dom0SecureUpdates)
 -   [Debugging Windows VMs](/doc/WindowsDebugging)
+-   [Profiling python code](/doc/Profiling)
 -   [VM secure update mechanism?](/doc/VMSecureUpdates)
 -   [VM-dom0 internal configuration interface](/doc/SystemDoc/VMInterface)
 
