@@ -13,7 +13,7 @@ Architects & Core Developers
 
 -   Joanna Rutkowska `joanna at invisiblethingslab dot com` - architecture & project management, original core, occasional addons
 -   Marek Marczykowski `marmarek at invisiblethingslab dot com` - everything [Xen/Linux?](/doc/Xen/Linux) related :)
--   Wojciech Porczyk `wojciech at porczyk dot eu` -- various Linux-related things
+-   Wojciech Porczyk `woju at invisiblethingslab dot com` -- various Linux-related things
 
 Contributors to the open source code
 ------------------------------------
