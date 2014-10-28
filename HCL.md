@@ -108,7 +108,7 @@ Reports
 Qubes HCL
 =========
 
-Device
+**Laptop Devices**
 
 BIOS version
 
@@ -125,8 +125,6 @@ dom0 kernel
 Remarks
 
 Reported by
-
-**Laptop Devices**
 
 Apple MacBookPro
  (i5-3210M, Ivy Bridge, Intel HD Graphics)
@@ -1367,7 +1365,25 @@ R2B2
 
 [Ant](https://groups.google.com/d/msg/qubes-users/uKI-VBtKWxg/uKjsdGNSpSQJ)
 
+ 
+
 **Desktop, Workstation and Server**
+
+BIOS version
+
+HVM
+
+IOMMU
+
+TPM
+
+**Qubes version**
+
+dom0 kernel
+
+Remarks
+
+Reported by
 
 Apple Mac mini (late 2012)
  (i7-3615QM, Ivy Bridge, HD Graphics)
@@ -1550,7 +1566,25 @@ Issue with sound, network and marvel raid. AEM untested.
 
 [Hans Walter](https://groups.google.com/d/msg/qubes-users/EDxALP9GNFo/gAH7nZXd0CkJ)
 
+ 
+
 **Motherboards**
+
+BIOS version
+
+HVM
+
+IOMMU
+
+TPM
+
+**Qubes version**
+
+dom0 kernel
+
+Remarks
+
+Reported by
 
 ASRock G31M-GS
  (LGA775, G31, GMA3100)
