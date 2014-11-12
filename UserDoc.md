@@ -75,7 +75,10 @@ Qubes User Documentation
         2.  [Qubes service framework](/doc/QubesService)
         3.  [Note regarding password-less root access in VM](/doc/VMSudo)
 
-4.  **Hardware**
+4.  **Applications**
+    1.  [Languages]
+
+5.  **Hardware**
     1.  [How to Mount USB Sticks to AppVMs](/doc/StickMounting)
     2.  [Where are my external storage devices mounted?](/doc/ExternalDeviceMountPoint)
     3.  [Assigning PCI Devices to AppVMs](/doc/AssigningDevices)
