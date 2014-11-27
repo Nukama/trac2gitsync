@@ -8,8 +8,6 @@ redirect_from: /wiki/VersionScheme/
 Version Scheme
 ==============
 
-***Warning:** this draft, not yet approved*
-
 Beginning with R3 release, we change (and formalise) the versioning scheme. From now on, it will be as follows.
 
 Qubes distributions and products
