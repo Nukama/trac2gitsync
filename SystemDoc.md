@@ -30,9 +30,10 @@ System Documentation for Developers
     6.  [VM secure update mechanism?](/doc/VMSecureUpdates)
 
 3.  Debugging:
-    1.  [Debugging Windows VMs](/doc/WindowsDebugging)
-    2.  [Profiling python code](/doc/Profiling)
+    1.  [Profiling python code](/doc/Profiling)
+    2.  [Test environment in separate machine for automatic tests](/doc/TestBench)
     3.  [VM-dom0 internal configuration interface](/doc/SystemDoc/VMInterface)
+    4.  [Debugging Windows VMs](/doc/WindowsDebugging)
 
 4.  Building:
     1.  [Building Qubes](/doc/QubesBuilder)
